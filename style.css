@@ -64,8 +64,7 @@ ul li {
 .number {
     margin: 0;
     padding: 0;
-    padding-bottom: 10px;
-    width: fit-content;
+    padding-bottom: 8px;
 }
 
 .number p {
